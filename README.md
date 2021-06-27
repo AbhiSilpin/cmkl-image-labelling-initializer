@@ -1,5 +1,5 @@
-Image Labelling Setup:
-    
+## **Image Labelling Setup:**
+
 ✅ for every video file in the directory  
     - create a folder with corresponding name  
     - move the video inside the folder    
