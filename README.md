@@ -6,12 +6,12 @@ Image Labelling Setup:
 <br>
 ✅ for each folder:   
     - move inside the folder  
-    - create labels, raw_frames, and selected_imgs folder  
+    - create labels, raw_frames, and selected_imgs folders  
     - use ffmpeg command to split the video into raw_frames  
     - move all .jpg files into raw_frames  
     - move back out  
 <br>
-❗  make the command support different file types  
+❗  make the script work with different file types  
 ❗  consider a different command for finding the video file name  
 ❓ prompt user for the path and file type input  
 <br>
